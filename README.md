@@ -35,3 +35,5 @@ Feel free to explore the projects below to see the work I’ve been doing to gro
 ---
 
 ## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-s-brown/)
