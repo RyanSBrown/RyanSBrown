@@ -1,30 +1,37 @@
-# <a href="https://www.linkedin.com/in/ryan-s-brown/">Ryan Brown</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Ryan Brown | Cybersecurity Projects
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Welcome to my cybersecurity project portfolio.
 
+I’m passionate about cybersecurity and enjoy digging into complex challenges through hands-on projects. From vulnerability management and threat detection to log analysis and security monitoring, I focus on building practical skills that translate directly into real-world security operations.
+
+Each project is an opportunity to strengthen my analytical thinking and better understand how security teams identify, investigate, and respond to threats in today’s evolving threat landscape.
+
+Feel free to explore the projects below to see the work I’ve been doing to grow my cybersecurity and security operations capabilities.
+
+---
+
+## 🎯 Focus Areas
+
+- Vulnerability Management
+- Threat Detection & Threat Hunting
+- Security Operations (SOC)
+- Log Analysis
+- SIEM Investigation
+- Cloud Security
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/RyanSBrown/vulnerability-management-program)** (Under Construction)
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/RyanSBrown/programmatic-vulnerability-remediations)** (Under Construction)
+- **[Vulnerability Management Program Implementation](https://github.com/RyanSBrown/vulnerability-management-program)** *(Under Construction)*  
+- **[Programmatic Vulnerability Remediations (PowerShell & Bash)](https://github.com/RyanSBrown/programmatic-vulnerability-remediations)** *(Under Construction)*  
 
-## 🚨 Threat Hunting and Security Operations
+---
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanSBrownthreat-hunting-scenario-tor)** (Under Construction)
+## 🚨 Threat Hunting & Security Operations
 
-<hr/>
+- **[Threat Hunting Scenario – Tor Browser Usage](https://github.com/RyanSBrown/threat-hunting-scenario-tor)** *(Under Construction)*  
 
-## 🤳 Connect With Me
+---
 
-[<img align="left" alt="Ryan Brown| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/ryan-s-brown
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+## 🤝 Connect With Me
