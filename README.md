@@ -20,6 +20,8 @@ Feel free to explore the projects below to see the work I’ve been doing to gro
 - Cloud Security
 
 ---
+## ☁️ AWS Cloud Security Projects
+- **[AWS Security Engineering: IAM Hardening & SOC Monitoring](https://github.com/RyanSBrown/AWS-Cloud-Security-Governance-Identity-Hardening-SOC-Monitoring/tree/main/AWS-Cloud-Security-Governance-Identity-Hardening-SOC-Monitoring%20Folder)**
 
 ## ⚠️ Vulnerability Management Projects
 
