@@ -36,6 +36,15 @@ Feel free to explore the projects below to see the work I’ve been doing to gro
 
 ---
 
+## 🏅 Certifications
+
+- **[CompTIA CySA+](https://www.credly.com/badges/6f395c5e-1091-47da-91b4-99f923dcf224/public_url)**
+- **[CompTIA Security+](https://www.credly.com/badges/9d77b178-de89-43e8-b43e-7f4ac00a032a/public_url)**
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/9808ec32-58b1-4272-9f95-7e1d8c688659/public_url)**
+- **[CompTIA Security Analytics Professional (CSAP)](https://www.credly.com/badges/b971f938-b5fc-4633-9336-6532ab22f526/public_url)**
+
+---
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-s-brown/)
