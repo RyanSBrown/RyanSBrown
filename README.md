@@ -25,6 +25,7 @@ Feel free to explore the projects below to see the work I’ve been doing to gro
 
 ## ⚠️ Vulnerability Management Projects
 
+- **[Nessus Vulnerability Assessment](https://github.com/RyanSBrown/Nessus-Vulnerability-Assessment)**  
 - **[Vulnerability Management Program Implementation](https://github.com/RyanSBrown/vulnerability-management-program)** *(Under Construction)*  
 - **[Programmatic Vulnerability Remediations (PowerShell & Bash)](https://github.com/RyanSBrown/programmatic-vulnerability-remediations)** *(Under Construction)*  
 
